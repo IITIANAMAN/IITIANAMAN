@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My LeetCode data 
+->I am fully intreseted in problem solving specially DSA problem 
 ![](https://leetcard.jacoblin.cool/AmanMeena_IITBHU?ext=heatmap)
