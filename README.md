@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # My LeetCode data 
-->I am fully intreseted in problem solving specially DSA problem 
+->I am fully intreseted in problem solving specially DSA problem  <br/>
 ![](https://leetcard.jacoblin.cool/AmanMeena_IITBHU?ext=heatmap)
